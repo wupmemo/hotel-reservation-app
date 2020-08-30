@@ -13,4 +13,6 @@ called Adminer by simply accessing [localhost:8080](http://127.0.0.1:8080)
 ## How to run this project ##
 - Download and Install [Docker](https://www.docker.com/)
 - `cd` into the project directory and run the follow command `docker-compose up --build`
-
+- Once docker is done you will find backend API on [127.0.0.1:5000](http://127.0.0.1:5000) and frontend
+here [127.0.0.1:3000](http://127.0.0.1:3000). For DB access you can find adminer
+Panel here [127.0.0.1:8080](http:127.0.0.1:8080) 
