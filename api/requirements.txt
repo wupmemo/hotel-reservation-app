@@ -3,3 +3,5 @@ flask_restful
 flasgger
 flask-marshmallow
 apispec
+flask-sqlalchemy
+marshmallow-sqlalchemy
